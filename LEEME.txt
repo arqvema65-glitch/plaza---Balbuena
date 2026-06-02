@@ -1,0 +1,4 @@
+Página completa Plaza Balbuena.
+
+Para verla: descomprime el ZIP y abre index.html.
+No borres la carpeta assets porque contiene todas las fotos y el QR.
