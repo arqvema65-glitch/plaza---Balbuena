@@ -1,0 +1,9 @@
+{
+  "name": "arqvema65-glitch",
+  "description": "A repository used by Text Hoarder browser extension to store saved articles",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "text-hoarder": "latest"
+  }
+}
